@@ -1,0 +1,2 @@
+# infomration_assistant_charlie_version
+closed project
